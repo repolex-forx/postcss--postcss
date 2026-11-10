@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/postcss/postcss/commit/4740f8a2c65949e18340a3a775a38a5717eafa0d",
       "git:hexsha": "4740f8a2c65949e18340a3a775a38a5717eafa0d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/postcss/postcss/commit/ad246924bbaca8b2baa51f9c4daf9ee2416b9879",
